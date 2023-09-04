@@ -28,6 +28,14 @@ git push origin branchName
 ```
 
 ```bash
+git checkout -b "branchName"
+```
+
+```bash
+git checkout "branchName"
+```
+
+```bash
 git pull origin branchName
 ```
 
